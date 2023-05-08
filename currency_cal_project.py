@@ -1,3 +1,7 @@
+import pyfiglet as gs
+
+a = gs.figlet_format("White-Devil-GS")
+print(a)
 print('''
 US Dollars --1
 Euro --2
